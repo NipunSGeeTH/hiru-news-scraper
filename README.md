@@ -1,5 +1,5 @@
 
-  <h1>Hiru News Scraper</h1>
+  <h1>Hiru News (Sinhala Language News )  Scraper</h1>
 
   <p>This Python script scrapes news articles from <a href="https://hirunews.lk"> Hirunews.lk </a> and saves them in JSON format.</p>
 
